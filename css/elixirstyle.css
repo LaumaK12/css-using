@@ -1,0 +1,35 @@
+h1, h2, h3{
+    color:gray;
+    margin: 0;
+}
+
+.greentea{
+    color:greenyellow;
+}
+.pink{
+    color:pink;
+}
+.blue{
+    color:blue;
+}
+.red{
+    color:red;
+}
+#berry{
+    color:pink;
+}
+.header{
+    background-color:burlywood;
+    }
+.content{
+    background-color:silver;
+}
+.footer{
+    background-color:hotpink;
+}
+.textbg{
+    background-color: yellow;
+}
+p img{
+    width: 50px;
+}
